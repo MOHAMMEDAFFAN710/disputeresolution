@@ -1,11 +1,14 @@
 {
   "dependencies": {
-    "@types/react": "^19.2.7",
+    "@rainbow-me/rainbowkit": "^2.2.9",
     "react": "^19.2.0",
-    "wagmi": "^3.0.2",
+    "viem": "^2.40.3",
+    "wagmi": "^2.10.10",
     "web3": "^4.16.0"
   },
   "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
     "@types/web3": "^1.0.20"
   }
 }
